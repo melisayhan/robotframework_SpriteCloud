@@ -10,8 +10,8 @@ ${LOGIN_URL} =  login
 
 #Input Data
 &{UNREGISTERED_USER}   Email=melis@melis.com    Password=123456   ExpectedErrorMessage=Email or password is invalid
-&{INVALID_PASSWORD_USER}  Email=nuraymeliscelik@gmail.com    Password=654321    ExpectedErrorMessage=Email or password is invalid
-&{VALID_PASSWORD_USER}   Email=nuraymeliscelik@gmail.com    Password=123456
+&{INVALID_PASSWORD_USER}  Email=    Password=    ExpectedErrorMessage=Email or password is invalid
+&{VALID_PASSWORD_USER}   Email=    Password=
 
 
 
